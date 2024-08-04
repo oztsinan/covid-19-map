@@ -4,6 +4,7 @@ This web application displays a global map of COVID-19 statistics, allowing user
 
 - Light and Dark Mode
 - ✨Responsive ✨
+- [👨🏻‍💻 Live Preview](https://covid-19-map-sinanozturk-team.vercel.app/)
 
 ![](https://i.hizliresim.com/9wmj80n.png)
 ![](https://i.hizliresim.com/e61a2kz.png)
